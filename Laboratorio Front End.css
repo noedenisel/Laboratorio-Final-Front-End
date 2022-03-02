@@ -1,0 +1,24 @@
+/* CSS STYLE*/
+h1 {color: blue;
+    text-shadow: 1px 1px yellow;
+    text-align: center;
+}
+.fieldset { background-color: turquoise;
+    color: black;
+}
+.legend { background-color: red;
+    color: white;
+}
+.campo{ background-color: yellow;
+    color: black;
+    border: 1px grey;
+} 
+.alerta{
+    background-color:pink;
+    text-align: center;
+    height: 50%;
+    width:  07%;
+    border-radius: 09%;
+    border-color: lightgrey;
+}
+
